@@ -222,6 +222,7 @@
 		1D60588E0D05DD3D006BFB54 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
+			fallbackIsa = PBXBuildPhase;
 			files = (
 				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
 				1D3623260D0F684500981E51 /* ScrollerAppDelegate.m in Sources */,

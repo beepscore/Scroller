@@ -126,7 +126,7 @@
 	[[UIApplication sharedApplication] setStatusBarHidden:NO animated:NO];
 	
 	// Back to the startscreen, which isn't rotated :D
-	[self.view removeFromSuperview];
+	// [self.view removeFromSuperview];
 }
 
 - (void)loadScrollViewWithPage:(int)page {
