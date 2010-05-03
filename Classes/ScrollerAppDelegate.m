@@ -8,10 +8,10 @@
 //  Read my blog @ http://blog.sallarp.com
 //
 
-#import "ScrollViewImageGalleryAppDelegate.h"
+#import "ScrollerAppDelegate.h"
 #import "ImageGallery.h"
 
-@implementation ScrollViewImageGalleryAppDelegate
+@implementation ScrollerAppDelegate
 
 @synthesize window;
 @synthesize viewController;

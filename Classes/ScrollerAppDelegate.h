@@ -11,7 +11,7 @@
 
 @class ImageGallery;
 
-@interface ScrollViewImageGalleryAppDelegate : NSObject <UIApplicationDelegate> {
+@interface ScrollerAppDelegate : NSObject <UIApplicationDelegate> {
     UIWindow *window;
     ImageGallery *viewController;
 
